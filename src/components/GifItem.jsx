@@ -2,6 +2,8 @@
 
 export const GifItem = ({title,url,id}) => {
 
+  //vista de las imagenes con los datos
+  //
 
   return (
     <div className="card">
